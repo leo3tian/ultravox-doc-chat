@@ -1,4 +1,5 @@
-How to start
+### How to start
+From /ultravox-doc-chat/
 - run `npm install`
 - run `npm run start` to start the frontend
 - run `node server.js` to run the backend
