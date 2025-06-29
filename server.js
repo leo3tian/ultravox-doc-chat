@@ -4,8 +4,8 @@ const cors = require("cors");
 const app = express();
 const PORT = 4000;
 
-const API_KEY = "sHeui6ZO.A1XcHjuHj9aETbGmbeGusACbnRWN6CGu";
-const AGENT = "30b037c8-c62f-4f99-8274-56e409304d9d";
+const API_KEY = process.env.ULTRAVOX_API_KEY;
+const AGENT = process.env.ULTRAVOX_AGENT;
 
 app.use(cors());
 app.use(express.json());

@@ -1,3 +1,7 @@
+### About
+
+Web app that lets you speak to a web document. Built using [Ultravox AI](https://ultravox.ai/). 
+
 ### How to start
 From /ultravox-doc-chat/
 - run `npm install`
