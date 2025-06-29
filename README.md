@@ -1,6 +1,6 @@
 ### About
 
-Web app that lets you speak to a web document. Built using [Ultravox AI](https://ultravox.ai/). 
+Web app that lets you speak naturally to a PDF document. Built using [Ultravox AI](https://ultravox.ai/) voice AI platform. 
 
 ### Try it out
 From /ultravox-doc-chat/
